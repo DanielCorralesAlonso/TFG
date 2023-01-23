@@ -1,0 +1,96 @@
+For alpha = 1.00 (log-case) 
+--> Error is 0.427787 
+--> Deterministic error is 0.336303 
+--> Minimax solution is 0.571390 
+For alpha = 1.50 
+--> Error is 0.407239 
+--> Deterministic error is 0.339160 
+--> Minimax solution is 0.486648 
+For alpha = 2.00 
+--> Error is 0.394900 
+--> Deterministic error is 0.324622 
+--> Minimax solution is 0.445056 
+For alpha = 3.00 
+--> Error is 0.384051 
+--> Deterministic error is 0.330336 
+--> Minimax solution is 0.404428 
+For alpha = 4.00 
+--> Error is 0.379395 
+--> Deterministic error is 0.336050 
+--> Minimax solution is 0.384621 
+For alpha = 5.00 
+--> Error is 0.375884 
+--> Deterministic error is 0.338739 
+--> Minimax solution is 0.372918 
+For alpha = 6.00 
+--> Error is 0.373520 
+--> Deterministic error is 0.341681 
+--> Minimax solution is 0.365201 
+For alpha = 7.00 
+--> Error is 0.372318 
+--> Deterministic error is 0.335882 
+--> Minimax solution is 0.359769 
+For alpha = 8.00 
+--> Error is 0.371567 
+--> Deterministic error is 0.329916 
+--> Minimax solution is 0.355735 
+For alpha = 9.00 
+--> Error is 0.371007 
+--> Deterministic error is 0.335714 
+--> Minimax solution is 0.352619 
+For alpha = 10.00 
+--> Error is 0.370491 
+--> Deterministic error is 0.332773 
+--> Minimax solution is 0.350148 
+For alpha = 12.00 
+--> Error is 0.369449 
+--> Deterministic error is 0.332773 
+--> Minimax solution is 0.346474 
+For alpha = 15.00 
+--> Error is 0.368581 
+--> Deterministic error is 0.338571 
+--> Minimax solution is 0.342835 
+For alpha = 17.00 
+--> Error is 0.368062 
+--> Deterministic error is 0.341429 
+--> Minimax solution is 0.341132 
+For alpha = 20.00 
+--> Error is 0.367610 
+--> Deterministic error is 0.341429 
+--> Minimax solution is 0.339228 
+For alpha = 25.00 
+--> Error is 0.367855 
+--> Deterministic error is 0.341429 
+--> Minimax solution is 0.337085 
+For alpha = 30.00 
+--> Error is 0.367778 
+--> Deterministic error is 0.341429 
+--> Minimax solution is 0.335667 
+For alpha = 35.00 
+--> Error is 0.367737 
+--> Deterministic error is 0.341429 
+--> Minimax solution is 0.334657 
+For alpha = 40.00 
+--> Error is 0.367398 
+--> Deterministic error is 0.341429 
+--> Minimax solution is 0.333901 
+For alpha = 45.00 
+--> Error is 0.367184 
+--> Deterministic error is 0.341429 
+--> Minimax solution is 0.333314 
+For alpha = 50.00 
+--> Error is 0.367176 
+--> Deterministic error is 0.341429 
+--> Minimax solution is 0.332845 
+For alpha = 55.00 
+--> Error is 0.367226 
+--> Deterministic error is 0.344370 
+--> Minimax solution is 0.332462 
+For alpha = 60.00 
+--> Error is 0.367332 
+--> Deterministic error is 0.341513 
+--> Minimax solution is 0.332143 
+For alpha =  Inf (01-case) 
+--> Error is 0.366499 
+--> Deterministic error is 0.350252 
+--> Minimax solution is 0.328656 
